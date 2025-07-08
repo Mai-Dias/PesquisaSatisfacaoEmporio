@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: PesquisaSatisfacaoEmporio
-    env: dotnet
-    buildCommand: dotnet build
-    startCommand: dotnet run --urls=http://0.0.0.0:10000
