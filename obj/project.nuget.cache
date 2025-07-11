@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDtkFCwEQnk/pvdSR3BnciTl73efb5rjdfS9wQtPjCo2MjEGUpRP58dbp71OclF5gX6j0TJK6N8GD9Ql+xp70A==",
+  "dgSpecHash": "QLVffUsmb/F+sAjmu1Va2gT8gr27KvisGkr7kdzJISHOrt98QGPJK2JBkmJkr0c+DGWtGm/rrVSGbBJWtbvGJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
+  "projectFilePath": "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\empor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\empor\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",

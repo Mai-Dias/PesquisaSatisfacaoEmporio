@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj": {}
+    "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj": {
+    "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
+        "projectUniqueName": "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
         "projectName": "PesquisaSatisfacaoEmporio",
-        "projectPath": "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
+        "projectPath": "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\PesquisaSatisfacaoEmporio.csproj",
         "packagesPath": "C:\\Users\\empor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\empor\\OneDrive\\Documentos\\PesquisaSatisfacaoEmporio\\obj\\",
+        "outputPath": "C:\\Users\\empor\\OneDrive\\Documentos\\GitHub\\PesquisaSatisfacaoEmporio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\empor\\AppData\\Roaming\\NuGet\\NuGet.Config"
